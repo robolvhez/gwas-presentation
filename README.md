@@ -2,6 +2,8 @@
 
 This presentation was made using (LaTeX) Beamer. 
 
+**Download** the `latex-presentation/` contents directory, and build the presentation.
+
 For compilation, please use **LuaLaTeX/XeLaTeX** compilation due to `fontspec` package. Available in most [MikTeX](https://miktex.org/) and [TeXLive Full](https://tug.org/texlive/) distributions, or you can compile online using [Overleaf](https://es.overleaf.com/).
 
 ## Preview
